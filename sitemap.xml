@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+<url>
+    <loc>https://jdiaz97.github.io/greenblog\index.html</loc>
+    <lastmod>2024-02-03</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+</url>
+<url>
+    <loc>https://jdiaz97.github.io/greenblog\posts\co2\index.html</loc>
+    <lastmod>2024-02-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+</urlset>

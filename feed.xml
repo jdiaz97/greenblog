@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
+
+  <channel>
+    <title>
+      <![CDATA[  greenblog  ]]>
+    </title>
+    <link> https://jdiaz97.github.io/greenblog </link>
+    <description>
+      <![CDATA[  Tech for nature  ]]>
+    </description>
+    <atom:link
+      href="https://jdiaz97.github.io/greenblog\feed.xml"
+      rel="self"
+      type="application/rss+xml" />
+
+<item>
+  <title>
+    <![CDATA[  CO2 and productiviy: behind the meme.  ]]>
+  </title>
+  <link> https://jdiaz97.github.io/greenblog\posts/co2/index.html </link>
+  <guid> https://jdiaz97.github.io/greenblog\posts/co2/index.html </guid>
+  <description>
+    <![CDATA[  CO2 and productiviy: behind the meme.  ]]>
+  </description>
+
+  
+  
+  <content:encoded>
+    <![CDATA[  <h1 id="co2_and_productiviy_behind_the_meme">CO2 and productiviy: behind the meme.</h1>
+<p>Blog for fusen</p>
+<div class="toc-header">Table of contents</div>
+<div class="franklin-toc"><ol><li>The meme</li><li>The science</li><li>The gadgets</li></ol></div>
+<h2 id="the_meme">The meme</h2>
+<p>If you were reading &quot;tech twitter&quot; at the end of last year, you would have noticed a new trend: everyone was buying a CO2 sensor kit.</p>
+<p><img src="https://jdiaz97.github.io/greenblog/assets/co2/1.jpg" alt="1" /> <img src="https://jdiaz97.github.io/greenblog/assets/co2/2.jpg" alt="2" /> <img src="https://jdiaz97.github.io/greenblog/assets/co2/3.jpg" alt="3" /></p>
+<p>The trend exploded, a lot of people were buying their kits just to notice crazy levels of CO2 in their rooms and much more. A summary of these posts could be:</p>
+<ul>
+<li><p>People noticing they have to open their windows for 30 minutes to get &quot;ok&quot; levels of CO2</p>
+</li>
+<li><p>Insane levels of CO2 in the workplace, public transport, hotel rooms, etc.</p>
+</li>
+<li><p>Decrease in brain fog after fixing CO2 levels, better sleep, etc.</p>
+</li>
+</ul>
+<p>Have you measured the CO2 in your office yet?</p>
+<h2 id="the_science">The science</h2>
+<p>The words &quot;crazy&quot; or &quot;insane&quot; levels of CO2, sounds like too much, yes, but it is crazy and insane. The CO2 in your room can greatly affect the performance of your brain and therefore, your productivity, let&#39;s see some research.</p>
+<p>In the paper &#91;1&#93;, the found the following: &quot;Cognitive function scores were 15&#37; lower for the moderate CO2 day &#40;~ 945 ppm&#41; and 50&#37; lower on the day with CO2 concentrations of ~1,400 ppm&quot; in comparison to a system with good ventilation.</p>
+<p>Some of the plots look like this: </p>
+<p><img src="https://jdiaz97.github.io/greenblog/assets/co2/4.jpg" alt="3" /></p>
+<ol>
+<li><p><a href="https://ehp.niehs.nih.gov/doi/pdf/10.1289/ehp.1510037">Associations of Cognitive Function Scores with Carbon Dioxide, Ventilation, and Volatile Organic Compound Exposures in Office Workers: A Controlled Exposure Study of Green and Conventional Office Environments</a></p>
+</li>
+</ol>
+<p>If you want to read more, you can also check:</p>
+<ol start="2">
+<li><p><a href="https://iopscience.iop.org/article/10.1088/1748-9326/ac1bd8">Associations between acute exposures to PM2.5 and carbon dioxide indoors and cognitive function in office workers: a multicountry longitudinal prospective observational study</a></p>
+</li>
+</ol>
+<ol start="3">
+<li><p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0360132320301074">The relationships between classroom air quality and children’s performance in school</a></p>
+</li>
+</ol>
+<p>The conclusion is, check your CO2 levels, it&#39;s free performance</p>
+<h2 id="the_gadgets">The gadgets</h2>
+<p>The trend revolved around the &quot;aranet4&quot; CO2 sensor. You can find it on Amazon, of course, but I think it&#39;s too expensive for what it offers.</p>
+<p>I&#39;d suggest building a relatively inexpensive IoT system with a few arduinos or ESP32s and some chinese CO2 sensors.</p>
+<p>In any case, can you put a price on your brain health?</p>
+ ]]>
+  </content:encoded>
+  
+
+  
+  <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
+
+  
+  
+  
+  <atom:author>
+    <atom:name>José</atom:name>
+  </atom:author>
+  
+
+  
+
+  
+
+  
+</item>
+</channel></rss>
