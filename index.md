@@ -1,1 +1,1 @@
-* [Why I Switched from Flutter + Rust to Rust + egui](../posts/flutter_to_egui)
+* [Why I Switched from Flutter + Rust to Rust + egui](https://github.com/jdiaz97/greenblog/tree/gh-pages/posts/flutter_to_egui)
