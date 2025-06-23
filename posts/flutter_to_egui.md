@@ -47,13 +47,13 @@ There is only 1 programmer in the project, and that's me. We (Boquila) were hopi
 Flutter:
 
 ~~~
-    <img src="/assets/flutter_rust.jpg" style="height: 500px; width: auto;">
+    <img src="/greenblog/assets/flutter_rust.jpg" style="height: 500px; width: auto;">
 ~~~
 
 Egui:
 
 ~~~
-    <img src="/assets/flutter_rust2.jpg" style="height: 500px; width: auto;">
+    <img src="/greenblog/assets/flutter_rust2.jpg" style="height: 500px; width: auto;">
 ~~~
 
 Of course, making the Flutter one look good is possible and easy if you're good at it. I wasn't, and egui just worked better for me. I didn't even make an effort to make it look good; I just grabbed a minimal template and modified it, and it looks great.
