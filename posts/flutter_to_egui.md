@@ -3,7 +3,7 @@ tags = ["Rust", "Flutter", "AI"]
 
 rss_title = "Why I Switched from Flutter + Rust to Rust + egui"
 rss_description = "Random thoughts and lesons"
-rss_pubdate = Date(2025, 6, 23) 
+rss_pubdate = Date(2025, 6, 24) 
 +++
 
 # Why I Switched from Flutter + Rust to Rust + egui
