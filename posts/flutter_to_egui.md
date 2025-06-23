@@ -7,14 +7,12 @@ rss_pubdate = Date(2025, 6, 24)
 +++
 
 # Why I Switched from Flutter + Rust to Rust + egui
+
+This is just a personal experience, there are no absolute truths. Like in any other blog post, a lot of the things you'll read here could be just a skill issue, or legitimate issues. It's up to you to decide.
     
 \tableofcontents
 
-## Introduction
-
-This is just a personal experience, there are no absolute truths. Like in any other blog post, a lot of the things you'll read here could be just a skill issue, or legitimate issues. It's up to you to decide.
-
-### Flutter + Rust
+## Introduction: Flutter + Rust
 
 We had an app that had a nice Flutter UI that called Rust binaries. The bindings were generated using [flutter\_rust\_bridge](https://github.com/fzyzcjy/flutter_rust_bridge), which is an amazing piece of software. A lot of people have built large and complex apps using this tool. It's crazy how far it can just work, just by running:
 
@@ -26,7 +24,7 @@ That's really all it takes for many, many, many cases.
 
 But I got frustrated for the few times that 'generate' won't work, for the times where FFI wasn't just working, and for the times that I had to spend energy designing a public API that was 100% friendly for Rust <-> Flutter.
 
-### Rust + egui
+## Introduction: Rust + egui
 
 After some time of being frustrated with the current stack, I was thinking of dropping Flutter, I didn't want to think about FFI anymore. I chose [egui](https://github.com/emilk/egui) to check if it was feasible to move the UI code with very little friction. I came to know about egui because of the extremely impressive work they've done to build [rerun](https://github.com/rerun-io/rerun). I was very motivated to try this.
 
